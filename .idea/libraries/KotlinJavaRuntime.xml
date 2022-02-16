@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="KotlinJavaRuntime">
+    <CLASSES>
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib.jar!/" />
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-reflect.jar!/" />
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-test.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jedis-3.5.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/json-20210307 2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/mongo-java-driver-3.9.1.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/exist-xqj-api-1.0.1/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/" />
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-reflect-sources.jar!/" />
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-test-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/exist-xqj-api-1.0.1/lib" recursive="false" />
+  </library>
+</component>
